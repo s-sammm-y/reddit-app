@@ -17,7 +17,7 @@ This project is a **Reddit-style social feed app** built using **React Native (E
 ---
 
 ## 📸 ER Diagram
-![ER Diagram](./assets/er-diagram.jpg)
+![ER Diagram](./assets/er-diagram.png)
 
 ---
 
